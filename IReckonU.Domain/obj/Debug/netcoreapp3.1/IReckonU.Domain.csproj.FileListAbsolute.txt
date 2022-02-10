@@ -1,0 +1,15 @@
+C:\Users\Patricio\Desktop\Assignment\IReckonU.Assignment\IReckonU.Domain\bin\Debug\netcoreapp3.1\IReckonU.Domain.deps.json
+C:\Users\Patricio\Desktop\Assignment\IReckonU.Assignment\IReckonU.Domain\bin\Debug\netcoreapp3.1\IReckonU.Domain.dll
+C:\Users\Patricio\Desktop\Assignment\IReckonU.Assignment\IReckonU.Domain\bin\Debug\netcoreapp3.1\IReckonU.Domain.pdb
+C:\Users\Patricio\Desktop\Assignment\IReckonU.Assignment\IReckonU.Domain\bin\Debug\netcoreapp3.1\IReckonU.Data.dll
+C:\Users\Patricio\Desktop\Assignment\IReckonU.Assignment\IReckonU.Domain\bin\Debug\netcoreapp3.1\IReckonU.Data.Models.dll
+C:\Users\Patricio\Desktop\Assignment\IReckonU.Assignment\IReckonU.Domain\bin\Debug\netcoreapp3.1\IReckonU.Data.Models.pdb
+C:\Users\Patricio\Desktop\Assignment\IReckonU.Assignment\IReckonU.Domain\bin\Debug\netcoreapp3.1\IReckonU.Data.pdb
+C:\Users\Patricio\Desktop\Assignment\IReckonU.Assignment\IReckonU.Domain\obj\Debug\netcoreapp3.1\IReckonU.Domain.csproj.AssemblyReference.cache
+C:\Users\Patricio\Desktop\Assignment\IReckonU.Assignment\IReckonU.Domain\obj\Debug\netcoreapp3.1\IReckonU.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patricio\Desktop\Assignment\IReckonU.Assignment\IReckonU.Domain\obj\Debug\netcoreapp3.1\IReckonU.Domain.AssemblyInfoInputs.cache
+C:\Users\Patricio\Desktop\Assignment\IReckonU.Assignment\IReckonU.Domain\obj\Debug\netcoreapp3.1\IReckonU.Domain.AssemblyInfo.cs
+C:\Users\Patricio\Desktop\Assignment\IReckonU.Assignment\IReckonU.Domain\obj\Debug\netcoreapp3.1\IReckonU.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Patricio\Desktop\Assignment\IReckonU.Assignment\IReckonU.Domain\obj\Debug\netcoreapp3.1\IReckonU.Domain.csproj.CopyComplete
+C:\Users\Patricio\Desktop\Assignment\IReckonU.Assignment\IReckonU.Domain\obj\Debug\netcoreapp3.1\IReckonU.Domain.dll
+C:\Users\Patricio\Desktop\Assignment\IReckonU.Assignment\IReckonU.Domain\obj\Debug\netcoreapp3.1\IReckonU.Domain.pdb

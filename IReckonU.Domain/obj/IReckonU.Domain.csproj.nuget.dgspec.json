@@ -1,0 +1,209 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Patricio\\Desktop\\Assignment\\IReckonU.Assignment\\IReckonU.Domain\\IReckonU.Domain.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Patricio\\Desktop\\Assignment\\IReckonU.Assignment\\IReckonU.Data.Models\\IReckonU.Data.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Patricio\\Desktop\\Assignment\\IReckonU.Assignment\\IReckonU.Data.Models\\IReckonU.Data.Models.csproj",
+        "projectName": "IReckonU.Data.Models",
+        "projectPath": "C:\\Users\\Patricio\\Desktop\\Assignment\\IReckonU.Assignment\\IReckonU.Data.Models\\IReckonU.Data.Models.csproj",
+        "packagesPath": "C:\\Users\\Patricio\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Patricio\\Desktop\\Assignment\\IReckonU.Assignment\\IReckonU.Data.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Patricio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nextchapter.pkgs.visualstudio.com/_packaging/NextChapter.Common@Local/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/nextchapter/_packaging/NextChapter.MicroServices/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Patricio\\Desktop\\Assignment\\IReckonU.Assignment\\IReckonU.Data\\IReckonU.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Patricio\\Desktop\\Assignment\\IReckonU.Assignment\\IReckonU.Data\\IReckonU.Data.csproj",
+        "projectName": "IReckonU.Data",
+        "projectPath": "C:\\Users\\Patricio\\Desktop\\Assignment\\IReckonU.Assignment\\IReckonU.Data\\IReckonU.Data.csproj",
+        "packagesPath": "C:\\Users\\Patricio\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Patricio\\Desktop\\Assignment\\IReckonU.Assignment\\IReckonU.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Patricio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nextchapter.pkgs.visualstudio.com/_packaging/NextChapter.Common@Local/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/nextchapter/_packaging/NextChapter.MicroServices/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Patricio\\Desktop\\Assignment\\IReckonU.Assignment\\IReckonU.Data.Models\\IReckonU.Data.Models.csproj": {
+                "projectPath": "C:\\Users\\Patricio\\Desktop\\Assignment\\IReckonU.Assignment\\IReckonU.Data.Models\\IReckonU.Data.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Patricio\\Desktop\\Assignment\\IReckonU.Assignment\\IReckonU.Domain\\IReckonU.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Patricio\\Desktop\\Assignment\\IReckonU.Assignment\\IReckonU.Domain\\IReckonU.Domain.csproj",
+        "projectName": "IReckonU.Domain",
+        "projectPath": "C:\\Users\\Patricio\\Desktop\\Assignment\\IReckonU.Assignment\\IReckonU.Domain\\IReckonU.Domain.csproj",
+        "packagesPath": "C:\\Users\\Patricio\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Patricio\\Desktop\\Assignment\\IReckonU.Assignment\\IReckonU.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Patricio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nextchapter.pkgs.visualstudio.com/_packaging/NextChapter.Common@Local/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/nextchapter/_packaging/NextChapter.MicroServices/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Patricio\\Desktop\\Assignment\\IReckonU.Assignment\\IReckonU.Data.Models\\IReckonU.Data.Models.csproj": {
+                "projectPath": "C:\\Users\\Patricio\\Desktop\\Assignment\\IReckonU.Assignment\\IReckonU.Data.Models\\IReckonU.Data.Models.csproj"
+              },
+              "C:\\Users\\Patricio\\Desktop\\Assignment\\IReckonU.Assignment\\IReckonU.Data\\IReckonU.Data.csproj": {
+                "projectPath": "C:\\Users\\Patricio\\Desktop\\Assignment\\IReckonU.Assignment\\IReckonU.Data\\IReckonU.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "CsvHelper": {
+              "target": "Package",
+              "version": "[27.2.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
