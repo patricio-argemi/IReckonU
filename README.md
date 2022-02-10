@@ -28,6 +28,14 @@ Notes:
 - Entity Framework Core used for migrations.
 - Source file (iru-assignment-2018.csv) is fetch from a fixed route inside the project ("Resources"), and the output JSON file is generated in the same route
 
+Endpoints: 
+- https://localhost:5001/api/product/ 
+Get all products.
+- https://localhost:5001/api/product/productKey
+Find a product by productKey (i.e. https://localhost:5001/api/product/00000002groe110)
+- https://localhost:5001/api/product/import
+Run the import process who fetches the CSV file, saves the contents in the DB and outputs a JSON file with the saved data.
+
 Improvements I left out due to time availability:
 
 - Implement automapper, get rid of those CreateProduct private methods
